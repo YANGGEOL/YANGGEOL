@@ -2,7 +2,7 @@
 - 👀 I’m interested in progranming
 - 🌱 I’m currently learning Big Data, Machine Learning, Web and Visualization
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 E-mail: yanggeol@qq.com
 
 <!---
 YANGGEOL/YANGGEOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
